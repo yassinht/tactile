@@ -1,0 +1,2 @@
+https://github.com/mdn/web-speech-api
+https://w3c.github.io/vibration/
